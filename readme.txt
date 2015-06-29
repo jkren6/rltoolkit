@@ -1,11 +1,13 @@
 RLtoolkit   Version 1.0 b6  January 25, 2005
 
+Credits: Repo cloned from http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLtoolkit/RLtoolkit1.0.html
+
 Contents:
 
 examples - a folder of demos to run, using the toolkit
   - the maintenance example
   - mountain car (GUI and nonGUI)
-   
+
 fa - function approximation demo
    (currently only uses tile coding)
 gridworld - gridworld demo
